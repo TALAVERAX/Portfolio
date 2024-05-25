@@ -1,0 +1,20 @@
+body {
+    margin:  0 auto;
+    width: 70%;
+    max-width: 1280px;
+    align-content: center;
+}
+
+
+header {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 136px auto 0 auto
+}
+
+.navigation {
+    display: flex;
+    gap: 40px;
+}
